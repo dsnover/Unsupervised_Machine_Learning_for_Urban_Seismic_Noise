@@ -6,4 +6,4 @@ Snover, D., Johnson, C., Bianco, M., Gerstoft, P., (2019, December) Urban Seismi
 
 Snover, D., Johnson, C., Bianco, M., Gerstoft, P., (2020, February) Classification of Urban Seismic Noise Using Unsupervised Machine Learning.  Presented at the 2020 Information Theory and Applications Workshop, San Diego, California (talk)
 
-Snover, D., Johnson, C., Bianco, M., Gerstoft, P.,(2020, April) Classification of Urban Seismic Noise Using Unsupervised Machine Learning. Upcoming presentation at the 2020 Seismological Society of America Annual Meeting, Albequerque, New Mexico (talk). 
+~~Snover, D., Johnson, C., Bianco, M., Gerstoft, P.,(2020, April) Classification of Urban Seismic Noise Using Unsupervised Machine Learning. Upcoming presentation at the 2020 Seismological Society of America Annual Meeting, Albequerque, New Mexico (talk). 
